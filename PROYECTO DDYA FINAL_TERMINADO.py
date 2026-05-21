@@ -246,13 +246,16 @@ main()
 #crear_usuario Daniel
 #crear_usuario David
 #crear_usuario Mateo
+#crear_usuario Laura
 #conectar Juan Sofia
 #conectar Sofia Daniel
 #conectar David Mateo
+#conectar Daniel Laura
+#privada Laura
+#bloquear Mateo David
 #contar Sofia
 #sugerir Juan
 #grupos
-
 
 
 
